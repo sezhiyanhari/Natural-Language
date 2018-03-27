@@ -1,2 +1,2 @@
 # Natural-Language
-Overview of Natural Processing - Description to be provided soon
+I've attached here the assignments for ECS189 - Natural Language Processing. Further descriptions are provided inside the respective folders.
